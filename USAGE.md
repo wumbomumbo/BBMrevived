@@ -17,7 +17,7 @@ You will also need a website domain that is **14 characters long**, including th
 
 You'll need to decompile it with some apktool version; you do not need to decode resources.
 
-You can decompile my copy of the APK, for simplicity's sake:  
+This will be replaced with how to patch soon but, for now you can decompile my copy of the APK, for simplicity's sake:  
 [Patched.apk](https://files.catbox.moe/2h04ta.apk)
 
 The domain name will be `berryinfra.xyz`. There are some patches in here that allow you to use Cloudflare as your DNS.  
